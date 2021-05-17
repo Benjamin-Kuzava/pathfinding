@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .node-finish {
+    background-color: #ed4956;
+  }
+  .node-start {
+    background-color: #005c98;
+  }
+  .node-wall {
+    background-color: #333;
+  }
+}
